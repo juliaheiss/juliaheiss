@@ -1,7 +1,7 @@
 # boas vindas ao meu perfil !!
 meu nome é Júlia Heiss
 
-- estou praticando na Alura](https://www.alura.com.br)
+- estou praticando na Alura(https://www.alura.com.br)
 - estou me desenvolvendo na linguagem JavaScript
 - ultilizo esse espaço para minha organização e a compartilização dos meus projetos desenvolvidos
 
